@@ -1,5 +1,5 @@
 {
-  "name": "aws",
+  "name": "tutorial-pt-2",
   "version": "1.0.0",
   "description": "Creating and managing a Node.js Server on AWS",
   "main": "index.js",

@@ -1,7 +1,7 @@
 
 module.exports = {
     apps: [{
-        name: 'aws',
+        name: 'tutorial-pt-2',
         script: './server/index.js'
     }],
     deploy: {
